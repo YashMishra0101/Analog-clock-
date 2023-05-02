@@ -26,7 +26,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository to your local machine using the command:
    ```
-   git clone https://github.com/[your_username]/analog-clock.git
+   git clone https://github.com/YashMishra0101/Analog-clock-.git
    ```
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install the required dependencies.
