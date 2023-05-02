@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.clock-container span{
+    position: absolute;
+    transform: rotate(calc(30deg * var(--i)));  
+    inset:0.8rem ;
+    text-align: center;
+}
+
+.clock-container b{
+    transform: rotate(calc(-30deg * var(--i)));
+    display: inline-block;
+    font-size:larger;
+}
