@@ -1,7 +1,7 @@
 
 # 🕰️ Analog Clock
 
-<img src="./Screenshot (280).png">
+![Screenshot](./Screenshot%20(280).png)
 
 This is a simple analog clock built using HTML, Tailwind CSS, and JavaScript ,👨‍💻 this project was created as a practice exercise to improve my skills in front-end web development.
 
